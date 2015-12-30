@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.frontSlideShow
+{
+	width: 100%;
+	background-size:cover;
+	position: absolute;
+	display: inline-block;
+}
+
+#slideA
+{
+	z-index: 0;
+}
+
+#slideB
+{
+	z-index: -1;
+}
